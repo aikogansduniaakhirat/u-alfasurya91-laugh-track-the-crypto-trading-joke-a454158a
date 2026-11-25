@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "A program that writes one line to /output/entry.txt: the crypto trader's excuse of being 'early', and where it got him.",
+  "description": "Writes one crypto joke to /output/entry.txt: the trader's 'early' excuse, cashed out.",
   "license": "MIT",
   "scripts": {
     "entry": "MAKEFUN_OUTPUT_DIR=out node main.ts"

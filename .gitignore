@@ -1,4 +1,6 @@
+# the local determinism runs, never published
 out/
 out1/
 out2/
+# nothing here needs dependencies, but a stray install would not be the entry
 node_modules/
